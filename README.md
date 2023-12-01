@@ -1,1 +1,1 @@
-# ps-spring-boot-deployment
+# Pluralsight - Deploying Spring Boot 3 Applications Playbook
